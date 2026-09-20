@@ -1,6 +1,6 @@
 flag_value {
   package: "com.android.launcher3"
   name: "app_launch_blur"
-  state: ENABLED
+  state: DISABLED
   permission: READ_ONLY
 }
